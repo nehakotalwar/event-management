@@ -75,15 +75,7 @@
 - [Live Demo Link](git@github.com:nehakotalwar/event-management.git)
   
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Demonstration : 
-
-> Watch this video: 
-- Demonstraion: <br/>
-[![Watch the video](https://media.giphy.com/media/3oz8xNVZFhMdjNnoic/giphy.gif)](https://www.loom.com/share/dca16ee0b02741dd8e9e763f2d3e1c2b)
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -175,37 +167,7 @@ Neha Kotalwar
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
->  I need Support and Guidance to become a Developer.
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-## Designed by :
->[Cindy Shin from behance ](https://www.behance.net/adagio07) <br>
-
-## Developed By: 
-> [`Ahmed Hasan Rony`](https://www.linkedin.com/in/ahroniy)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
