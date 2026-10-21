@@ -158,11 +158,7 @@ To run the project, execute the following command:
 
 
 👤 **Author**
-
-- GitHub: [@roniy68](https://github.com/roniy68)
-- Twitter: [@ahroniy](https://twitter.com/ahroniy)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ahroniy)
-
+Neha Kotalwar
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -229,8 +225,3 @@ If you like this project...
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
