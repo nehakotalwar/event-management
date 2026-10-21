@@ -76,7 +76,7 @@ CSS styling and media queries can be used to adapt the website to desktop, table
 
 👩‍💻 Author
 
-Neha Kotalwar
+Neha Kotalwar 
 
 Computer Science and Engineering Student
 
