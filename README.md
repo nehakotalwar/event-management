@@ -1,189 +1,85 @@
-<a name="readme-top"></a>
+🎉 Event Management Website
 
-<div align="center">
+A responsive Event Management Website built using HTML5 and CSS3 to showcase events through a clean, attractive, and user-friendly interface.
 
-  <img src="images/logo.jpg" alt="logo" width="140"  height="auto" />
-  <br/>
+📌 About the Project
 
-  <h3><b>Event Management</b></h3>
+The Event Management Website is a frontend web development project designed to present event-related information in an organized and visually appealing manner.
 
-</div>
+The website focuses on providing a simple browsing experience through structured webpages, attractive layouts, and consistent styling.
 
-<!-- TABLE OF CONTENTS -->
-# 📗 Table of Contents
+This project demonstrates the practical application of HTML5 and CSS3 in building a responsive website without using JavaScript or backend technologies.
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 Event-Management  ](#-event-management--)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [Demonstration :](#demonstration-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-- [To check for css errors](#to-check-for-css-errors)
-- [To check for html errors](#to-check-for-html-errors)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [Designed by :](#designed-by-)
-  - [Developed By:](#developed-by)
-  - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
+🎯 Objectives
 
-<!-- PROJECT DESCRIPTION -->
+* Develop a clean and attractive event management website.
+* Organize event-related information into structured webpages.
+* Create a user-friendly navigation experience.
+* Apply HTML5 and CSS3 concepts in a practical project.
+* Design responsive layouts for different screen sizes.
+* Improve frontend development and web design skills.
 
-# 📖 Event-Management  <a name="about-project"></a>
+✨ Features
 
-> This Project is to create Event-Management for our Resume
->       <br><b> Module One day 2 Project [solo]</b>
+* Home Page: Presents the website and its event-related content.
+* About Page: Provides information about the organization.
+* Attractive UI: Uses colors, typography, and layouts to improve the visual experience.
+* Navigation Menu: Provides links between webpages.
+* Image Sections: Displays event-related images and visual content.
+* Responsive Layout: Adapts the design to different screen sizes, where implemented.
 
-**Event-Management** is a template to build your Event-Management website beautiful.
+🛠️ Technologies Used
 
-## 🛠 Built With <a name="built-with"></a>
+* HTML5: Used to structure webpages and organize content.
+* CSS3: Used for styling, layouts, typography, and responsive design.
 
-### Tech Stack <a name="tech-stack"></a>
+📂 Project Structure
 
->HTML and CSS
+Event-Management-Website/
+│
+├── index.html
+├── about.html
+├── style.css
+├── images/
+└── README.md
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://w3school.com/">HTML</a></li>
-  </ul>
-</details>
-<br>
+Note: Adjust the file names and folder structure to match your actual repository.
 
-### Key Features <a name="key-features"></a>
+🚀 How to Run the Project
 
-> THIS IS A SIMPLE TEMPLATE APP FOR NOW
+1. Clone or download the repository.
+2. Open the project folder in Visual Studio Code.
+3. Open the index.html file in your browser.
+4. Explore the website.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+No backend setup or JavaScript installation is required.
 
-<!-- LIVE DEMO -->
+📱 Responsive Design
 
-## 🚀 Live Demo <a name="live-demo"></a>
+CSS styling and media queries can be used to adapt the website to desktop, tablet, and mobile screens.
 
-> Deployed Link Below: 
->  soon will be available
+📚 Learning Outcomes
 
-- [Live Demo Link](git@github.com:nehakotalwar/event-management.git)
-  
+* Understanding HTML5 page structure.
+* Applying CSS3 styling techniques.
+* Creating webpage layouts.
+* Working with images, links, and navigation.
+* Learning responsive web design.
+* Organizing files in a frontend project.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+🔮 Future Enhancements
 
-## 💻 Getting Started <a name="getting-started"></a>
+* Add more event categories and dedicated event pages.
+* Improve mobile responsiveness.
+* Enhance accessibility and navigation.
+* Introduce event registration functionality in a future version.
 
-> An Event Management website where Engineers from different fields collaborate together. 
+👩‍💻 Author
 
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-  - NODE 
-  - ESlint set up
-
-### Setup
-- install node and eslint
- 
-
-```sh
-  npm install eslint
-  npx eslint --init
-```
-<br>
-
-
-### Install
-
-Install this project with:
-
-Clone this repository to your desired folder:
-
-
- commands:
-
-```sh
-  git clone https://github.com/roniy68/event-management.git
-  cd hello-world
-  npm install -y
-```
-<br><br>
-
-### Usage
-
-To run the project, execute the following command:
-
-
--install serve with : npm install -g serve
-
-```sh
-  serve -s .
-```
-
-
-
-
-# To check for css errors
-
-```sh
-    npx stylelint "**/*.{css,scss}"
-
-```
-# To check for html errors
-```sh
-    npx hint .
-```
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-
-👤 **Author**
 Neha Kotalwar
 
+Computer Science and Engineering Student
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+📄 License
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
->  1 - 3 features I will add to the project.
-
-- [ ] **javascript**
-- [ ] **frontend**
-- [ ] **backend**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-
-
-- **How you clone the repo?**
-
-  - git clone **\<repo name\>**
-
-- **How you install node?**
-
-  - https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
+If this project is adapted from another repository, review its original license and provide attribution as required.
